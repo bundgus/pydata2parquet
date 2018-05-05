@@ -1,5 +1,6 @@
 # pydata2parquet
 
+Convert data to the parquet format with dask and pyarrow.
 
 CSV Sample Data
 
